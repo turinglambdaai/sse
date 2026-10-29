@@ -8,5 +8,5 @@
 (define scribblings '(("scribblings/server-sent-events.scrbl" ())))
 (define pkg-desc "Server-Sent Events: WHATWG wire-format encoding and a fan-out hub")
 (define license 'MIT)
-(define pkg-authors '(turinglambdaai))
+(define pkg-authors '(turlamai))
 (define test-omit-paths '("scribblings"))
