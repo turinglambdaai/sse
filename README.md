@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-[![CI](https://github.com/turinglambdaai/server-sent-events/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/server-sent-events/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/server-sent-events/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/server-sent-events/actions/workflows/ci.yml)
 
 Server-Sent Events for Racket: the WHATWG wire format plus a small
 fan-out hub. A protocol library, not a framework — event routing,
